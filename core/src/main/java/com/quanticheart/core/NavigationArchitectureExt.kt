@@ -2,8 +2,6 @@ package com.quanticheart.core
 
 import android.app.Activity
 import android.os.Bundle
-import android.view.Menu
-import androidx.annotation.MenuRes
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.forEach
 import androidx.fragment.app.Fragment
